@@ -8,7 +8,7 @@
 
 <meta name="description" content="Fan Hub is a free app for sports fans that saves them money on travel and rewards them for their loyalty. Users can track how many miles they've travelled and see where they feature in a leaderboard compared to other fans."><!-- <<<<   Add a brief decription of your app -->
 
-<title>FanHub - Fan Loyalty Rewarded</title>
+<title>FanHub - Information for Clubs</title>
 
 <!----  User-Scalable = NO  ---->
 <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
@@ -43,7 +43,8 @@
     
     <div class="header_right_column">
     
-    <h1>Fan Hub is a free app for fans that regularly watch live sport...</h1>
+    <h1>Engage your fanbase and reward their loyalty</h1>
+    <h2>Scroll down for more details...</h2>
     
     <!-- <a href="#" class="appstore_button"></a> -->
     
@@ -55,67 +56,55 @@
 
 </div>
 
-<div class="section_one">
-
-  <div class="inner_wrapper">
-  
-    <div class="section_one_header">
-    
-    <h2>Fan Loyalty Rewarded...</h2>
-    
-    <p>Use the Fan Hub app to track how far you travel over the season to watch your team, feature on the leaderboard of the most loyal fans, quickly find the best travel options and receive rewards from some of our partners.</p>
-    
-    </div>
-    
-    <div class="section_one_iphones_wrapper">
-    
-      <div class="section_one_iphone_one"></div>
-      
-      <div class="section_one_iphone_two"></div>
-      
-      <div class="section_one_iphone_three"></div>
-      
-    </div>
-    
- </div> 
- 
-</div>
-
-
 <div class="features_section">
 
   <div class="inner_wrapper">
   
-  <h3>Fan Hub Features That You'll Love...</h3>
+  <h3>FanHub is Perfect for Clubs</h3>
   
-	<ul class="features_list">
+	<ul class="features_list clubs">
 
-    <lI>
-      <div class="feature_icon location"><i class="fas fa-map-marker"></i></div>
-      <p class="feature_title">Check In and Track</p>
-      <p>Check in at the stadium to track the miles that you travel over the season.</p>
+    <li>
+      <div class="feature_icon location"><i class="fas fa-star"></i></div>
+      <p class="feature_title">Engage your fanbase and reward their loyalty</p>
+      <p>We've created Fan Hub as a tool that enables clubs to reward their fans' loyalty whilst providing an innovative activation opportunity for your sponsors and commercial partners to connect with your fans.</p>
     </lI>
 
 
     <lI>
-    <div class="feature_icon location"><i class="fas fa-trophy"></i></div>
-      <p class="feature_title">Be The Best Fan</p>
-      <p>See how your loyalty compares with other fans in each club's leaderboard.</p>
+    <div class="feature_icon location"><i class="fas fa-code"></i></div>
+      <p class="feature_title">Our Tech, Your Opportunity</p>
+      <p>Create as many rewards (and milestones that trigger them) as you wish. We have arranged some default rewards with some of the world's leading brands and you are able to use these or create your own rewards with any partner you choose, relevant for your own fanbase.</p>
     </lI>
 
 
     <lI>
-    <div class="feature_icon location"><i class="fas fa-h-square"></i></div>
-      <p class="feature_title">Easy Away Days</p>
-      <p>Fan Hub automatically finds your best travel options for each fixture.</p>
+    <div class="feature_icon location"><i class="fas fa-magic"></i></div>
+      <p class="feature_title">Our Tool, Your Imagination</p>
+      <p>We provide the mechanism for your imagination to craft exciting opportunities for your fans. This could include rewarding fans for arriving early in your stadium, accruing a number of miles travelling over the season or for appearing in your club's fan leaderboard. Rewards could also include unique experiences at your club - use our tool to deliver whatever rewards you dream up.</p>
     </lI>
 
+
+    <lI>
+      <div class="feature_icon location"><i class="fas fa-comment"></i></div>
+      <p class="feature_title">Authentic Content</p>
+      <p>Fans crave recognition for their loyalty and by checking into the stadium at each match they can soar up the fan leaderboard. This tool enables you to recognise individuals for their commitment to their team on social media or perhaps on a match day.</p>
+    </lI>
 
     <lI>
       <div class="feature_icon location"><i class="fas fa-gift"></i></div>
-      <p class="feature_title">Get Rewarded</p>
-      <p>Receive rewards from some of our partners in recognition of your loyalty.</p>
+      <p class="feature_title">Added Value. New Revenue.</p>
+      <p>Brands demand better segmentation and authentic targeting...what could be more authentic than rewarding a fan for their loyal support of your team. Whether you include such an opportunity in your existing sponsorship packages or build a new revenue stream around this as a stand alone sponsorship opportunity, this is the ideal asset to compliment traditional mediums such as a pitch side board or match day sponsorship.</p>
     </lI>
+
+
+    <lI>
+      <div class="feature_icon location"><i class="fas fa-train"></i></div>
+      <p class="feature_title">No fees, just cheap travel.</p>
+      <p>Saving the most compelling point for last, we charge no fees for Fan Hub and seek no commercial benefit from any additional revenues that you generate through our app. Our mission is to put fans first and one way in which we do that is to save fans money on their travel arrangements for every match. Our revenues are generated when fans save money rather than spending more!</p>
+    </lI>
+
+
   
   </ul>
 
@@ -239,6 +228,17 @@
  </div> 
 </div>
 
+
+<!-- <div class="final_cta_section">
+ <div class="inner_wrapper">
+  <h4>Download our app</h4>
+    <div class="final_cta_store_buttons_wrapper">
+      <a style="margin-left:auto;margin-right:auto;float:none;" href="#" class="appstore_button"></a>
+    </div>
+ </div> 
+
+</div> -->
+
 <!-- Signup Form -->
 
 <!-- Begin MailChimp Signup Form -->
@@ -261,18 +261,6 @@
 </div>
 
 <!--End mc_embed_signup-->
-
-<!-- / Signup Form -->
-
-<!-- <div class="final_cta_section">
- <div class="inner_wrapper">
-  <h4>Download our app</h4>
-    <div class="final_cta_store_buttons_wrapper">
-      <a style="margin-left:auto;margin-right:auto;float:none;" href="#" class="appstore_button"></a>
-    </div>
- </div> 
-
-</div> -->
 
 
 <div class="footer">
