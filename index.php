@@ -6,14 +6,12 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-<meta name="description" content="Fan Hub is a free app for sports fans that saves them money on travel and rewards them for their loyalty. Users can track how many miles they've travelled and see where they feature in a leaderboard compared to other fans."><!-- <<<<   Add a brief decription of your app -->
+<meta name="description" content="Fan Hub is a free app for sports fans that saves them money on travel and rewards them for their loyalty. Users can track how many miles they've travelled and see where they feature in a leaderboard compared to other fans.">
 
 <title>FanHub - Fan Loyalty Rewarded</title>
 
-<!----  User-Scalable = NO  ---->
 <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
 
-<!----  CSS  ---->
 <link href="site/css/styles.css" rel="stylesheet" type="text/css" />
 
 <link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
@@ -45,7 +43,7 @@
     
     <h1>Fan Hub is a free app for fans that regularly watch live sport...</h1>
     
-    <!-- <a href="#" class="appstore_button"></a> -->
+    <a href="#" class="appstore_button"></a>
     
     <!-- <a href="#" class="google_play_button"></a> -->
     
